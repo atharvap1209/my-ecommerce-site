@@ -1,4 +1,4 @@
-# An E-commerce website clone using react.js and firebase : 
+# An E-commerce website clone using react.js and firebase
 This is a full stack project based on react.js and firebase, with full functionality to sharpen my own understanding of react.js and javascript. 
 
 # Getting Started with Create React App
